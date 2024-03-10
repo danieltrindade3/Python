@@ -4,4 +4,4 @@ peso = float(input('Digite o seu peso.'))
 
 print(type(nome))
 print(type(idade))
-print(type(peso))
+print(type(peso)) 
