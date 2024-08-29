@@ -16,7 +16,7 @@
  36 ciano
  37 cinza
 
- back:
+ background:
  40 branco
  41 vermelho
  42 verde
